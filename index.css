@@ -74,9 +74,8 @@ body {
 }
 
 iframe {
-  min-width: 80%;
-  min-height: 40vh;
-
+  width: 700px;
+  height: 400px;
 }
 .assinaturas {
   display: flex;
